@@ -5,7 +5,7 @@
 </div>
 
 
-Hi 👋 I'm a junior front-end web developer! <br/>
+Hi 👋 I'm a junior Web Frontend developer! <br/>
 Thank you for visiting my github. 🚀 <br/>
 
 If you have some inquiries or anything, please feel free to contact me. 😎 <br/>
